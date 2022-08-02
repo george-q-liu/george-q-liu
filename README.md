@@ -66,8 +66,8 @@
 **Languages and Tools:**  
 -----------------------------------------------------------------
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -77,21 +77,10 @@
 
 <br />
 
----
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/AbdulMalikDev/AbdulMalikDev/issues/3) in [AbdulMalikDev/AbdulMalikDev](https://github.com/AbdulMalikDev/AbdulMalikDev)
-2. 🗣 Commented on [#112](https://github.com/wiredashio/wiredash-sdk/issues/112) in [wiredashio/wiredash-sdk](https://github.com/wiredashio/wiredash-sdk)
-3. 🎉 Merged PR [#152](https://github.com/CCExtractor/rutorrent-flutter/pull/152) in [CCExtractor/rutorrent-flutter](https://github.com/CCExtractor/rutorrent-flutter)
-4. ❗️ Opened issue [#1187](https://github.com/YTVanced/Vanced/issues/1187) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-5. 🗣 Commented on [#82](https://github.com/YTVanced/Vanced/issues/82) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-<!--END_SECTION:activity-->
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AbdulMalikDev)
+![](https://komarev.com/ghpvc/?username=george-q-liu)
 
 
 
