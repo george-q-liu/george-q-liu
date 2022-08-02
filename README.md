@@ -22,8 +22,6 @@
 ### ✨ Featured
 <a href="https://github.com/AbdulMalikDev/ounotes">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=ounotes&theme=default" /></a>
-<a href="https://github.com/AbdulMalikDev/PythonCheatSheet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=PythonCheatSheet&theme=default" /></a>  
   <br /><br />
 <br />
 <br /><br />
