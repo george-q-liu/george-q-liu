@@ -14,7 +14,7 @@
 ## 📈 **Overall Stats :**  
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&show_icons=true&theme=default)](https://github.com/george-q-liu/george-q-liu)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&hide_title=true&theme=default)](https://github.com/george-q-liu/george-q-liu)
 <br/>
 
 ## 📇 **Projects Index :** 
