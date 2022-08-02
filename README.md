@@ -8,7 +8,7 @@
 george-q-liu/george-q-liu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm Abdul Malik 👋
+# Hi there, I'm Qiaozhi Liu (George) 👋
 </a>
 
 <br />
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 *A Software Developer who loves to convert thoughts into code.*
 
 
-- 💻  Visit my **portfolio website** [here](https://maliksquared.com)
+- 💻  Visit my **portfolio website** [here](temp)
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
 
