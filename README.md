@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 
 - 💻  Visit my **portfolio website** [here](https://maliksquared.com)
-- 💬 Ask me about **anything** [here](https://github.com/AbdulMalikDev/AbdulMalikDev/issues)
+- 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
 
 ## 📈 **Overall Stats :**  
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&show_icons=true&theme=default)](https://github.com/AbdulMalikDev/AbdulMalikDev)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=george-q-liu&show_icons=true&theme=default)](https://github.com/george-q-liu/george-q-liu)
 <br/>
 
 ## 📇 **Projects Index :** 
