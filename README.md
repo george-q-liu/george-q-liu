@@ -24,7 +24,7 @@
 ## 📇 **Projects Index :** 
 
 ### ✨ Featured
-<a href="https://github.com/AbdulMalikDev/ounotes">
+<a href="https://github.com/george-q-liu/Flight-Fare">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=ounotes&theme=default" /></a>
   <br /><br />
 <br />
@@ -32,15 +32,8 @@
 <br /><br />
 
 ###  🌐 Web Development
-- [**Basic React Youtube Clone**](https://github.com/AbdulMalikDev/Basic-Youtube-React-Clone)
-
-###  📱 App Development
-- [**Todo List with Firebase Integration [Native Android]**](https://github.com/AbdulMalikDev/TODO-List)
-
-### 🧬 Data Structures and Algorithms
-- [**450 DSA Quesitons**](https://github.com/AbdulMalikDev/450-DSA)
-- [**AlgoExpert Solutions**](https://github.com/Syed-Flutter-Dev/My-Algoexpert-Solutions)
-- [**169 DSA Problems**](https://github.com/AbdulMalikDev/Grind169)
+- [**Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)
+- [**MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
 
 
 
