@@ -40,12 +40,13 @@
 - [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)
 
 
-###  ☕ Advanced Java Concurrency Projects
-
+###  ☕ Java Concurrency Projects
+- [**Java - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)
+- [**Java - Document Scanner & Processor**](https://github.com/george-q-liu/doc-scanner)
 
 
 ###  🔗 Quality Assurance Projects
-- [**JUnit Test Project**](https://github.com/george-q-liu/1632_deliverable_5)
+- [**Java - JUnit Test Project**](https://github.com/george-q-liu/1632_deliverable_5)
 
 
 
