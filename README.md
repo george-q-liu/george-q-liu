@@ -28,15 +28,26 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Flight-Fare&theme=default" /></a>
 <a href="https://github.com/george-q-liu/FaceBook-Clone">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=FaceBook-Clone&theme=default" /></a>
+<a href="https://github.com/george-q-liu/VirtualKathy-Final">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=VirtualKathy-Final&theme=default" /></a>
   <br /><br />
 <br />
 <br /><br />
 <br /><br />
 
 ###  🌐 Web Development
-- [**Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)
-- [**MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
+- [**Java - Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)
+- [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
+- [**Python - Flask Full Stack Sentiment Analysis App**](https://github.com/george-q-liu/cs1699_flask)
+- [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)
 
+
+###  ☕ Comprehensive Java Projects
+
+
+
+###  🔗 Quality Assurance Projects
+- [**JUnit Test Project**](https://github.com/george-q-liu/1632_deliverable_5)
 
 
 
