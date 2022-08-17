@@ -40,7 +40,7 @@
 - [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)
 
 
-###  ☕ Comprehensive Java Projects
+###  ☕ Advanced Java Concurrency Projects
 
 
 
