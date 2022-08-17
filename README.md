@@ -28,8 +28,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Flight-Fare&theme=default" /></a>
 <a href="https://github.com/george-q-liu/FaceBook-Clone">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=FaceBook-Clone&theme=default" /></a>
-<a href="https://github.com/george-q-liu/VirtualKathy-Final">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=VirtualKathy-Final&theme=default" /></a>
   <br /><br />
 <br />
 <br /><br />
