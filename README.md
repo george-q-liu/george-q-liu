@@ -25,7 +25,7 @@
 
 ### ✨ Featured
 <a href="https://github.com/george-q-liu/Flight-Fare">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulMalikDev&repo=ounotes&theme=default" /></a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Flight-Fare&theme=default" /></a>
   <br /><br />
 <br />
 <br /><br />
