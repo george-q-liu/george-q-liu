@@ -38,7 +38,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Microservices&theme=default" /></a>
 <a href="https://github.com/george-q-liu/Chat-Zone">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Chat-Zone&theme=default" /></a>
-
+  <br /><br />
+<br />
+<br /><br />
+<br /><br />
 ###  🌐 Web Development
 - [**Java - Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)
 - [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
