@@ -19,10 +19,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&hide_title=true&hide=stars&theme=default)](https://github.com/george-q-liu/george-q-liu)
 <br/>
 
----
 
-
-### 👨‍💻 Technologies I have Used
+### Technologies I have Used
 
 <div style="display:flex">
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -90,10 +88,6 @@
 - [**Java - JUnit Test Project**](https://github.com/george-q-liu/1632_deliverable_5)
 
 
-
-
----
----
 
 ![](https://komarev.com/ghpvc/?username=AbdulMalikDev)
 
