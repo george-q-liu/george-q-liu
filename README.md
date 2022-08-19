@@ -8,9 +8,10 @@
 
 *A Strong Communicator with Extensive Experience in Computer Science Teaching Assistant, CS Department Tutor.*
 
+* 😊 Thank you so much for visiting my profile and I hope you have a wonderful day! *
+
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
-* 😊 Thank you so much for visiting my profile and I hope you have a wonderful day! *
 
 ## 📈 **Overall Stats :**  
 
