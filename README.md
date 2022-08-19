@@ -20,7 +20,7 @@
 <br/>
 
 
-### Languages, Technologies & Tools I have Used
+### 🛠️ Languages, Technologies & Tools I have Used
 
 <div style="display:flex">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
