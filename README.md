@@ -5,6 +5,7 @@
 
 
 *A Full-Stack Software Engineer who loves to convert thoughts into code.*
+
 *Teaching Assistant and previously, CS Department Tutor with strong communication skills.*
 
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
