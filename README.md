@@ -28,6 +28,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Flight-Fare&theme=default" /></a>
 <a href="https://github.com/george-q-liu/FaceBook-Clone">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=FaceBook-Clone&theme=default" /></a>
+<a href="https://github.com/george-q-liu/Microservices">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Microservices&theme=default" /></a>
+<a href="https://github.com/george-q-liu/Chat-Zone">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Chat-Zone&theme=default" /></a>
   <br /><br />
 <br />
 <br /><br />
@@ -38,7 +42,7 @@
 - [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
 - [**Python - Flask Full Stack Sentiment Analysis App**](https://github.com/george-q-liu/cs1699_flask)
 - [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)
-
+- [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)
 
 ###  ☕ Java Concurrency Projects
 - [**Java - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)
