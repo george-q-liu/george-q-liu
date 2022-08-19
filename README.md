@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
-* 😊 Thank you so much for visiting my profile and I hope you have a wonderful day!😊 *
+* 😊 Thank you so much for visiting my profile and I hope you have a wonderful day! *
 
 ## 📈 **Overall Stats :**  
 
