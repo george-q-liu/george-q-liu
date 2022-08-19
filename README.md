@@ -4,9 +4,9 @@
 <br />
 
 
-*A Industrious Software Engineer who Loves to Convert Thoughts into Code with Previous Industry Experiences.*
+*A Industrious Software Engineer who Loves to Convert Thoughts into Code.*
 
-*A Strong Communicator with Extensive Experience in Computer Science Teaching Assistant, CS Department Tutor.*
+*A Strong Communicator with Experience in CS Teaching Assistant, CS Department Tutor.*
 
 * 😊 Thank you so much for visiting my profile and I hope you have a wonderful day! *
 
