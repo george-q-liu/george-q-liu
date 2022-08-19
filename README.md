@@ -6,7 +6,7 @@
 
 *A Full-Stack Software Engineer who loves to convert thoughts into code.*
 
-*Teaching Assistant and previously, CS Department Tutor with strong communication skills.*
+*Strong Communicator and Fast Worker with Extensive Experience in TA, CS Tutor and Software Development Internship.*
 
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
