@@ -49,7 +49,7 @@
 - [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)
 
 ###  ☕ Java Concurrency Projects
-- [**Java - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)
+- [**Java (Advanced) - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)
 - [**Java - Document Scanner & Processor**](https://github.com/george-q-liu/doc-scanner)
 
 
