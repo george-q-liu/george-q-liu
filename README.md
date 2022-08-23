@@ -12,10 +12,10 @@
 
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)
 
-
-## 📈 **Overall Stats :**  
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+## 📈 **Overall Stats :**  <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&hide_title=true&hide=stars&theme=default)](https://github.com/george-q-liu/george-q-liu)
 <br/>
 
@@ -97,7 +97,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AbdulMalikDev)
+![](https://komarev.com/ghpvc/?username=george-q-liu)
 
 
 
