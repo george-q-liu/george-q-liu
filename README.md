@@ -79,13 +79,13 @@
 <br /><br />
 
 
-
-###  🌐 Web Development
-- [**Java - Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)
-- [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)
-- [**Python - Flask Full Stack Sentiment Analysis App**](https://github.com/george-q-liu/cs1699_flask)
-- [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)
-- [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)
+<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+###  🌐 Web Development<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Java - Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Python - Flask Full Stack Sentiment Analysis App**](https://github.com/george-q-liu/cs1699_flask)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 
 ###  ☕ Java Concurrency Projects
 - [**Java (Advanced) - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)
