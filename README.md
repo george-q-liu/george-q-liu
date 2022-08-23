@@ -54,8 +54,8 @@
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img alt="GithubActions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-</div><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+</div>
+
 ## 📇 **Projects Index :** <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 ### ✨ Featured
@@ -63,42 +63,41 @@
   <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Flight-Fare&theme=default" /></a><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><a href="https://github.com/george-q-liu/FaceBook-Clone"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
   <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=FaceBook-Clone&theme=default" /></a><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-  <br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+
+  <br /><br />
+<br />
+<br /><br />
+<br /><br />
+
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><a href="https://github.com/george-q-liu/Microservices"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
   <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Microservices&theme=default" /></a><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><a href="https://github.com/george-q-liu/Chat-Zone"><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-  <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Chat-Zone&theme=default" /></a><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-  <br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<br /><br /><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+  <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=george-q-liu&repo=Chat-Zone&theme=default" /></a><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+  <br /><br />
+<br />
+<br /><br />
+<br /><br />
+
+
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 ###  🌐 Web Development<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 - [**Java - Spring Boot Full Flight Booking App**](https://github.com/george-q-liu/Flight-Fare)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 - [**Javascript - MERN Stack Facebook Clone**](https://github.com/george-q-liu/FaceBook-Clone)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 - [**Python - Flask Full Stack Sentiment Analysis App**](https://github.com/george-q-liu/cs1699_flask)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 - [**Python - Virtual Kathy Intelligent Assistant**](https://github.com/george-q-liu/VirtualKathy-Final)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-- [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+- [**Microservices with Node.js - Ticketing Web App**](https://github.com/george-q-liu/Microservices)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+
 ###  ☕ Java Concurrency Projects
 - [**Java (Advanced) - Mulit-thread Responsive Chat Room App**](https://github.com/george-q-liu/Chat-Zone)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 - [**Java - Document Scanner & Processor**](https://github.com/george-q-liu/doc-scanner)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+
+
 ###  🔗 Quality Assurance Projects
 - [**Java - JUnit Test Project**](https://github.com/george-q-liu/1632_deliverable_5)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
----<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-![](https://komarev.com/ghpvc/?username=george-q-liu)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
+
+---
+
+![](https://komarev.com/ghpvc/?username=george-q-liu)
+
+
+
