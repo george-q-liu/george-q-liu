@@ -13,7 +13,6 @@
 - 💬 Ask me about **anything** [here](https://github.com/george-q-liu/george-q-liu/issues)<!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-## 📈 **Overall Stats :**  <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <br/><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
