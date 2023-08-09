@@ -16,7 +16,6 @@
 ## 📈 **Overall Stats :**  <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbdulMalikDev&hide_title=true&hide=stars&theme=default)](https://github.com/george-q-liu/george-q-liu)
 <br/><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
 <!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  --><!-- george_qiaozhi_liu  -->
